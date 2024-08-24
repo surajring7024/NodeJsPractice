@@ -1,6 +1,9 @@
 
-require("./xyz");
-const {sum1,calculate}=require("./sum");
+//require("./xyz");
+
+//const {sum1,calculate}=require("./sum");
+
+import { sum1,calculate } from "./sum.js";
 
 var name="suraj";
 
