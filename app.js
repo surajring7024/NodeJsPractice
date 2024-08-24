@@ -1,10 +1,17 @@
+
+require("./xyz");
+const {sum1,calculate}=require("./sum");
+
 var name="suraj";
 
-var a=10
-var b=20
+var x=10
+var y=20
 
+
+calculate(x,y);
 // console.log(a+b);
-// console.log(name);
+ console.log(name);
 
 // console.log(global);
-console.log(globalThis);
+console.log(x+y);
+console.log(sum1);
