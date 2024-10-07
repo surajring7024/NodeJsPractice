@@ -9,11 +9,12 @@ Lets Dive Deep into nodeJS.
 
 ## Lession 3
 - Used ES Module
-**Note**- Need to add some lines in package.json
+-- **Note**- Need to add some lines in package.json
+'''JSON
 {
     "type":"module"
 }
-
+'''
 ## Lession 4
 - Learned about Module inside Module
     - Example:
